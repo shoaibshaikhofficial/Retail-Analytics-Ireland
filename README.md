@@ -159,7 +159,6 @@ Retail and pricing analytics techniques
 9. Repository Structure
 Retail-Analytics-Ireland/
 │
-├── dashboard.pbix
 ├── README.md
 │
 ├── documents/
