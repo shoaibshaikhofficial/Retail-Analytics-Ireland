@@ -160,16 +160,11 @@ Retail and pricing analytics techniques
 Retail-Analytics-Ireland/
 │
 ├── README.md
-│
-├── documents/
-│     ├── BA-Writeup-Portfolio.pdf
-│     ├── Business-Requirements-Document.pdf
-│
-└── images/
-      ├── Dashboard_Page1.png
-      ├── Dashboard_Page2.png
-      ├── Dashboard_Page3.png
-      ├── Dashboard_Page4.png
+
+├── Dashboard.pdf
+├── Business-Requirements-Document.pdf
+├── BA-Writeup-Portfolio.pdf
+     
 
 10. Business Value
 
